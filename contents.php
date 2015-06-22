@@ -18,6 +18,5 @@ $contents = array(
     )
 );
 
-var_dump($contents);
 ?>
 
